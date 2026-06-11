@@ -1,0 +1,6 @@
+OPENAI_API_KEY = openai_api_key
+GEMINI_API_KEY = gemini_api_key
+
+DOCS_DIR = upload_doc_directory
+VECTOR_DB_PATH = vector_db_directory
+COLLECTION_NAME = collection_name
